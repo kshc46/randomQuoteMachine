@@ -1,0 +1,21 @@
+body {
+  background-color: #CCFFDD;
+}
+
+/* style and position container */
+.box {
+  color: black;
+  padding: 20px;
+  margin: 100px 250px;
+  box-shadow: 5px 5px 30px #444;
+}
+
+/* sets font */
+.author, .quote, .btn {
+  font-family: 'Poiret One', cursive;
+}
+
+/* style the button font */
+.btn {
+  font-size: 18px;
+}
